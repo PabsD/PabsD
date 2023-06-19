@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PabsD . Call me Pabs.
+- 👋 Hi, I’m @PabsD . Call me Faris.
 - 👀 I’m interested in computer, astronomy and engineering.
 - 🌱 I’m currently learning competitive programming.
 - 💞️ I’m looking to collaborate on google.
